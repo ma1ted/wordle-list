@@ -37,7 +37,7 @@ GET /valid
 
 ---
 
-### Get item
+### Get a new word
 ```
 GET /choice
 ```
