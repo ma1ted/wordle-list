@@ -15,7 +15,7 @@ I am hosting this myself, and while there is a rate limit in place, it is genero
 
 ### Base URL
 ```
-http://api.malted.dev/wordle-list/
+http://wordle-list.malted.dev/
 ```
 
 ---
@@ -29,7 +29,7 @@ GET /valid
 | :-------- | :------- | :------------------------- |
 | `word` | `string` | **Required**. The word you wish to validate |
 #### Example
-`http://api.malted.dev/wordle-list/valid?word=acorn`
+`http://wordle-list.malted.dev/valid?word=acorn`
 #### Response
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
@@ -42,7 +42,7 @@ GET /valid
 GET /choice
 ```
 #### Example
-`http://api.malted.dev/wordle-list/choice`
+`http://wordle-list.malted.dev/choice`
 
 #### Response
 | Parameter | Type     | Description                |
