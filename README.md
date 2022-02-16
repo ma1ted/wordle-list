@@ -1,6 +1,7 @@
 # wordle-list
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ma1ted/wordle-list/Deno?label=tests)
+![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m790673309-43940cd3e21d3c2a6f037250)
 
 ## This is the API powering;
 
