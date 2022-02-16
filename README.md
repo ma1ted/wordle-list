@@ -1,5 +1,7 @@
 # wordle-list
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ma1ted/wordle-list/Deno?label=tests)
+
 ## This is the API powering;
 
 - [My Wordle clone](https://github.com/ma1ted/wordle)
