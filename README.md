@@ -3,12 +3,6 @@
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/ma1ted/wordle-list/Deno?label=tests)
 ![Uptime Robot ratio (30 days)](https://img.shields.io/uptimerobot/ratio/m790673309-43940cd3e21d3c2a6f037250)
 
-## This is the API powering;
-
-- [My Wordle clone](https://github.com/ma1ted/wordle)
-- The projects built by following along with my Wordle clone tutorial article on
-  Replit
-
 ## Overview
 
 Internally, the Wordle game has two lists of words.
